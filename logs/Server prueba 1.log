@@ -449,3 +449,65 @@
 [2026-02-25T18:54:33.421Z] [INFO] Pulso enviado
 [2026-02-25T18:54:38.431Z] [INFO] Pulso enviado
 [2026-02-25T18:54:43.550Z] [INFO] Pulso enviado
+[2026-02-25T21:19:56.340Z] [INFO] Server 'Server prueba 1' is running on http://localhost:4000
+[2026-02-25T21:19:56.944Z] [INFO] Server registrado correctamente
+[2026-02-25T21:20:02.372Z] [INFO] Pulso enviado
+[2026-02-25T21:20:07.157Z] [INFO] Pulso enviado
+[2026-02-25T21:20:12.173Z] [INFO] Pulso enviado
+[2026-02-25T21:20:17.151Z] [INFO] Pulso enviado
+[2026-02-25T21:20:22.161Z] [INFO] Pulso enviado
+[2026-02-25T21:20:27.256Z] [INFO] Pulso enviado
+[2026-02-25T21:20:32.203Z] [INFO] Pulso enviado
+[2026-02-25T21:20:37.157Z] [INFO] Pulso enviado
+[2026-02-25T21:20:42.316Z] [INFO] Pulso enviado
+[2026-02-25T21:20:47.191Z] [INFO] Pulso enviado
+[2026-02-25T21:20:52.180Z] [INFO] Pulso enviado
+[2026-02-25T21:20:57.302Z] [INFO] Pulso enviado
+[2026-02-25T21:21:02.187Z] [INFO] Pulso enviado
+[2026-02-25T21:21:07.166Z] [INFO] Pulso enviado
+[2026-02-25T21:21:12.209Z] [INFO] Pulso enviado
+[2026-02-25T21:21:17.166Z] [INFO] Pulso enviado
+[2026-02-25T21:21:22.222Z] [INFO] Pulso enviado
+[2026-02-25T21:21:27.183Z] [INFO] Pulso enviado
+[2026-02-25T21:21:32.172Z] [INFO] Pulso enviado
+[2026-02-25T21:21:37.006Z] [ERROR] Error enviando pulso: socket hang up
+[2026-02-25T21:21:42.285Z] [ERROR] Error enviando pulso: Request failed with status code 404
+[2026-02-25T21:21:47.316Z] [ERROR] Error enviando pulso: Request failed with status code 404
+[2026-02-25T21:22:20.854Z] [INFO] Server 'Server prueba 1' is running on http://localhost:4002
+[2026-02-25T21:22:21.270Z] [INFO] Server registrado correctamente
+[2026-02-25T21:22:26.785Z] [INFO] Pulso enviado
+[2026-02-25T21:22:31.485Z] [INFO] Pulso enviado
+[2026-02-25T21:22:36.525Z] [INFO] Pulso enviado
+[2026-02-25T21:22:41.498Z] [INFO] Pulso enviado
+[2026-02-25T21:22:46.480Z] [INFO] Pulso enviado
+[2026-02-25T21:22:51.484Z] [INFO] Pulso enviado
+[2026-02-25T21:22:56.492Z] [INFO] Pulso enviado
+[2026-02-25T21:23:01.608Z] [INFO] Pulso enviado
+[2026-02-25T21:23:06.508Z] [INFO] Pulso enviado
+[2026-02-25T21:23:11.492Z] [INFO] Pulso enviado
+[2026-02-25T21:23:16.506Z] [INFO] Pulso enviado
+[2026-02-25T21:23:21.527Z] [INFO] Pulso enviado
+[2026-02-25T21:23:26.487Z] [INFO] Pulso enviado
+[2026-02-25T21:23:31.485Z] [INFO] Pulso enviado
+[2026-02-25T21:23:36.497Z] [INFO] Pulso enviado
+[2026-02-25T21:23:41.559Z] [INFO] Pulso enviado
+[2026-02-25T21:23:46.490Z] [INFO] Pulso enviado
+[2026-02-25T21:23:51.490Z] [INFO] Pulso enviado
+[2026-02-25T21:23:56.698Z] [INFO] Pulso enviado
+[2026-02-25T21:24:01.498Z] [INFO] Pulso enviado
+[2026-02-25T21:24:06.500Z] [INFO] Pulso enviado
+[2026-02-25T21:24:11.598Z] [INFO] Pulso enviado
+[2026-02-25T21:24:16.501Z] [INFO] Pulso enviado
+[2026-02-25T21:24:21.489Z] [INFO] Pulso enviado
+[2026-02-25T21:24:26.494Z] [INFO] Pulso enviado
+[2026-02-25T21:24:31.498Z] [INFO] Pulso enviado
+[2026-02-25T21:24:36.580Z] [INFO] Pulso enviado
+[2026-02-25T21:24:41.500Z] [INFO] Pulso enviado
+[2026-02-25T21:24:46.510Z] [INFO] Pulso enviado
+[2026-02-25T21:24:51.627Z] [INFO] Pulso enviado
+[2026-02-25T21:24:56.550Z] [INFO] Pulso enviado
+[2026-02-25T21:25:01.532Z] [INFO] Pulso enviado
+[2026-02-25T21:25:06.796Z] [INFO] Pulso enviado
+[2026-02-25T21:25:11.515Z] [INFO] Pulso enviado
+[2026-02-25T21:25:16.509Z] [INFO] Pulso enviado
+[2026-02-25T21:25:21.305Z] [INFO] Servidor Server prueba 1 detenido

@@ -7,7 +7,7 @@ app.use(express.json());
 const port = process.argv[2];
 const NAME = process.argv[3];
 
-const MIDDLEWARE_URL = "http://localhost:3000";
+const MIDDLEWARE_URL = "https://unrippled-jeanett-impedingly.ngrok-free.dev";
 
 let pulseInterval;
 

@@ -362,3 +362,14 @@
 [2026-02-23T18:30:06.987Z] [INFO] Pulso enviado
 [2026-02-23T18:30:11.992Z] [INFO] Pulso enviado
 [2026-02-23T18:30:16.995Z] [INFO] Pulso enviado
+[2026-02-25T21:21:02.373Z] [INFO] Server 'Server prueba 2' is running on http://localhost:4001
+[2026-02-25T21:21:02.840Z] [INFO] Server registrado correctamente
+[2026-02-25T21:21:08.298Z] [INFO] Pulso enviado
+[2026-02-25T21:21:13.051Z] [INFO] Pulso enviado
+[2026-02-25T21:21:18.050Z] [INFO] Pulso enviado
+[2026-02-25T21:21:23.171Z] [INFO] Pulso enviado
+[2026-02-25T21:21:28.052Z] [INFO] Pulso enviado
+[2026-02-25T21:21:33.050Z] [INFO] Pulso enviado
+[2026-02-25T21:21:38.558Z] [ERROR] Error enviando pulso: Request failed with status code 404
+[2026-02-25T21:21:43.184Z] [ERROR] Error enviando pulso: Request failed with status code 404
+[2026-02-25T21:21:48.192Z] [ERROR] Error enviando pulso: Request failed with status code 404

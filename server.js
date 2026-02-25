@@ -18,7 +18,6 @@ io.on("connection", ()=>{
 
 app.use(express.json());
 
-/* ⭐ ESTA LINEA FALTABA */
 app.use(express.static("public"));
 
 const port = 3000;
@@ -131,8 +130,7 @@ app.post("/pulse/:name", (req, res) => {
     res.status(404).json({ error: "Servidor no registrado" });
 });
 
-
-// Listar servidores (API intacta)
+//Servidores activos
 app.get("/servers", (req, res) => {
     const now = Date.now();
 
@@ -177,7 +175,7 @@ setInterval(() => {
             }
 
             delete servers[name];
-            emitServersUI(); // ⭐ actualizar UI
+            emitServersUI(); 
         }
     });
 }, 10000);
