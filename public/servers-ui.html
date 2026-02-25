@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servers UI</title>
+
+<style>
+body{
+  font-family:Arial;
+  background:#0f172a;
+  color:white;
+  padding:30px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,220px);
+  gap:15px;
+}
+
+.card{
+  padding:15px;
+  border-radius:12px;
+  box-shadow:0 10px 20px rgba(0,0,0,.3);
+}
+
+.alive{background:#16a34a}
+.dead{background:#dc2626}
+</style>
+</head>
+
+<body>
+
+<h1>Servers Monitor</h1>
+
+<h2>Alive</h2>
+<div id="alive" class="grid"></div>
+
+<h2>Dead</h2>
+<div id="dead" class="grid"></div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="servers-ui.js"></script>
+
+</body>
+</html>
